@@ -1,2 +1,2 @@
-# MagneticStars
-Summer Research with Vero
+# Sphinx test on how to use it
+
